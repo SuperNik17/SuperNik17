@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SuperNik17
 - 👀 I’m interested in Robotics, Space and MotorSport
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Robotics Projects
 
 <!---
