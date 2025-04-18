@@ -1,4 +1,4 @@
-Welcome to the public showroom of my research in mobile robotics, computer vision and mechatronics. 🚀🤖 \n
+Welcome to the public showroom of my research in mobile robotics, computer vision and mechatronics. 🚀🤖	<br>
 NOTE: This repo currently contains only demo videos and GIFs.  Source code and academic publications are hosted elsewhere and are available upon request or via my Google Scholar profile.
 
 <!---
